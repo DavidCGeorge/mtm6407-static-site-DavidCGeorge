@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Favourite Decks
+permalink: /favouritedecks/
 ---
 
 hello
